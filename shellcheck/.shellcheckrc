@@ -1,0 +1,14 @@
+# shellcheck global config
+# Docs: https://www.shellcheck.net/wiki/Ignore
+
+# Default shell dialect (bash/sh/dash/ksh)
+shell=bash
+
+# Disable SC1090: can't follow non-constant source
+disable=SC1090
+
+# Disable SC1091: not following sourced file (common in dotfiles/plugin managers)
+disable=SC1091
+
+# Disable SC2148: no shebang required for sourced files
+disable=SC2148

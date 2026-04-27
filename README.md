@@ -7,6 +7,7 @@ Personal configuration files for developer tools. Targeted at power users — cl
 | Tool | Config file | Symlink target |
 |------|-------------|----------------|
 | ghostty | `ghostty/config` | `~/.config/ghostty/config` |
+| shellcheck | `shellcheck/.shellcheckrc` | `~/.shellcheckrc` |
 
 ## Usage
 
